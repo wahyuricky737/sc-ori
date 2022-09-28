@@ -1,6 +1,6 @@
 
 </p>
-<h1 align="center">rtxzy-Md-v2</h1>
+<h1 align="center">krizyz</h1>
 <p align="center">
 
 <img src="https://telegra.ph/file/b4d36a17e68e5f9f27cd5.jpg" alt="Br" width="500"/>
@@ -14,7 +14,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=package&message=RTXZY-MD&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/BOTCAHX/rtxzy-Md-v2"><img title="Author" src="https://img.shields.io/badge/Author-Team-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/wahyuricky737/kricnz-bot"><img title="Author" src="https://img.shields.io/badge/Author-Team-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="https://botcahx-rest-api.herokuapp.com"><img title="mengapi" 
@@ -32,8 +32,8 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 <a href="https://github.com/BOTCAHX/rtxzy-Md-v2/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/BOTCAHX/rtxzy-Md-v2?label=Issues&color=red&style=flat-square"></a>
 <a href="https://github.com/BOTCAHX/rtxzy-Md-v2/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BOTCAHX/rtxzy-Md-v2?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/BOTCAHX/rtxzy-Md-v2/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BOTCAHX/rtxzy-Md-v2?label=PullRequest&color=red&style=flat-square"></a>
-<a href="https://github.com/BOTCAHX/rtxzy-Md-v2"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/BOTCAHX/rtxzy-Md-v2/"><img title="Size" src="https://img.shields.io/github/repo-size/BOTCAHX/rtxzy-Md-v2?style=flat-square&color=green"></a>
+<a href="https://https://github.com/wahyuricky737/kricnz-bot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/wahyuricky737/kricnz-bot/"><img title="Size" src="https://img.shields.io/github/repo-size/BOTCAHX/rtxzy-Md-v2?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/BOTCAHX/rtxzy-Md-v2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
@@ -61,17 +61,17 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone  https://github.com/BOTCAHX/rtxzy-Md-v2
-> cd rtxzy-Md-v2
+> git clone  https://github.com/wahyuricky737/kricnz-bot
+> cd kricnz-bot
 > npm i
-> node run.js
+> npm start
 
 ## untuk Sdcard (File yang Sudah Di Download)
 > cd /sdcard
-> cp -r rtxzy-Md-v2 $HOME
-> cd rtxzy-Md-v2
+> cp kricnz-bot $HOME
+> cd kricnz-bot
 > npm i
-> node run.js
+> npm start
 ```
 
 ## Run On Heroku
